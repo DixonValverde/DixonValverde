@@ -4,7 +4,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,kali,java,python,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,kali,java,github,python,&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?DixonValverde=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?DixonValverde=Aneal07&theme=dark&hide_border=false)<br/>
