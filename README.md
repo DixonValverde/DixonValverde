@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🚀 Mi nombre es Boris  Dixon y actualmente soy estudiante de desarrollo de software... tengo 20 años<br>🌐 Que hago ahora: Sueño con codigos y con gatos🐈<br>📘 Lugar de estudio: Soy estudiante de la carrera de tecnología de la universidad Itecsur..🏔<br>  Let's chat!<br>🌟 Me: yo soy el estilo.=)
+🚀 Mi nombre es Boris  Dixon y actualmente soy estudiante de desarrollo de software... tengo 20 años<br>🌐 Que hago ahora: Sueño con codigos y con gatos🐈<br>📘 Lugar de estudio: Soy estudiante de la carrera de tecnología de la universidad Itecsur..🏔<br>  Let's chat!<br>🌟 Me: yo soy el estilo.=) <br>🚲Me gusta la montaña
 
 
 
